@@ -11,11 +11,13 @@ How many products are being discounted.
 How big are the offered discounts as a percentage of the product prices.
 How seasonality and special dates (Christmas, Black Friday) affect sales.
 How could data collection be improved.
+
 Analysis:
 Data appears to have inconsistencies(no categorization, missing values, 3 decimals present) --> Data cleaning technique applied
 Absence of buyer retetion information
 Historical price changes for the products unavailable
 Country/area specific discount info incomplete
+
 Results:
 Based on provided facts and data, we were able to generate overview of Eniac's products sales pattern
 per month
@@ -23,3 +25,5 @@ per category
 on strategic time points of the year
 graphical representation of above analysis using Matplotlib and Seaborn
 We were able to provide final conclusion whether and when should Eniac provide discounts over the year to achieve their sales goal.
+
+
